@@ -1,0 +1,86 @@
+
+# 2025-11-21 13:56:37.286610
++Code the following app
++```
++Crypto Goal Tracker — App Description
++
++Create a simple mini app called “Crypto Goal Tracker”.
++The app helps users set and track their personal crypto-related goals.
++No internet access or external data is required — all information is entered manually by the user.
++
++Core Features
++ 1. A text input field for the user to enter a goal name (e.g., “Save 0.5 ETH”, “Buy 10 SOL”).
++ 2. A numeric input field to set a target amount.
++ 3. A numeric input field to enter the current progress amount.
++ 4. A button “Add Goal” that saves the goal to a list.
++ 5. A visible list displaying all added goals in a clean layout:
++ • Goal name
++ • Target amount
++ • Current progress
++ • Progress percentage
++ 6. A “Update Progress” button for each goal, opening a small dialog where the user can enter a new progress value.
++ 7. A “Delete” button for each goal to remove it.
++
++How the app should work
++ • User enters a goal name, target, and current progress.
++ • Presses “Add Goal”, and the goal appears in the list.
++ • The app calculates the progress percentage automatically (current ÷ target × 100).
++ • User can update progress anytime using the built-in update dialog.
++ • User can delete goals from the list.
++ • All data lives inside the app session and requires no external API.
++
++UI Requirements
++ • Inputs placed at the top in a clean form layout.
++ • Goals displayed below in a simple table or cards.
++ • Progress percentage should update immediately after any change.
++ • Buttons and labels must be clearly marked.
++
++Goal of the App
++
++Provide users with a simple, offline-friendly way to track personal crypto accumulation goals without any external integrations.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-21 13:56:37.289949
++Code the following app
++```
++Crypto Goal Tracker — App Description
++
++Create a simple mini app called “Crypto Goal Tracker”.
++The app helps users set and track their personal crypto-related goals.
++No internet access or external data is required — all information is entered manually by the user.
++
++Core Features
++ 1. A text input field for the user to enter a goal name (e.g., “Save 0.5 ETH”, “Buy 10 SOL”).
++ 2. A numeric input field to set a target amount.
++ 3. A numeric input field to enter the current progress amount.
++ 4. A button “Add Goal” that saves the goal to a list.
++ 5. A visible list displaying all added goals in a clean layout:
++ • Goal name
++ • Target amount
++ • Current progress
++ • Progress percentage
++ 6. A “Update Progress” button for each goal, opening a small dialog where the user can enter a new progress value.
++ 7. A “Delete” button for each goal to remove it.
++
++How the app should work
++ • User enters a goal name, target, and current progress.
++ • Presses “Add Goal”, and the goal appears in the list.
++ • The app calculates the progress percentage automatically (current ÷ target × 100).
++ • User can update progress anytime using the built-in update dialog.
++ • User can delete goals from the list.
++ • All data lives inside the app session and requires no external API.
++
++UI Requirements
++ • Inputs placed at the top in a clean form layout.
++ • Goals displayed below in a simple table or cards.
++ • Progress percentage should update immediately after any change.
++ • Buttons and labels must be clearly marked.
++
++Goal of the App
++
++Provide users with a simple, offline-friendly way to track personal crypto accumulation goals without any external integrations.
++```
++
++Generate an app logo and update the app metadata title and description.
